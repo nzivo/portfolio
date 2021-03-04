@@ -22,7 +22,7 @@ export default function Home() {
         
         <p className={styles.description}>
           I love coding and designing interfaces and great products.
-          <br>
+          <br/>
           My portfolio is currently underway and I will be updating you soon.
         </p>
     
