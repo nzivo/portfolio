@@ -16,11 +16,15 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>A Front-end Developer</code>
+          A {' '}
+          <code className={styles.code}>Front-end Developer</code>
         </p>
         
-        <p className={styles.description}>I love coding and designing interfaces and great products. My portfolio is currently underway and I will be updating you soon.</p>
+        <p className={styles.description}>
+          I love coding and designing interfaces and great products.
+          <br>
+          My portfolio is currently underway and I will be updating you soon.
+        </p>
     
       </main>
 
